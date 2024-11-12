@@ -3,9 +3,6 @@
 Heating controller for IKA Digital is a simple python program written for the IKA Digital 5 heating pad, to provide remote operability, and to set up linear heating profiles
 
 
-```bash
-pip install foobar
-```
 
 ## Usage
 ```bash
@@ -20,4 +17,4 @@ to discuss what you would like to change.
 
 ## License
 
-[MIT] (licence.md)
+[MIT](licence.md)
