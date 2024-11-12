@@ -1,0 +1,5 @@
+ika==1.16.0
+ipywidgets==8.1.2
+matplotlib==3.9.1
+numpy==1.24.3
+pandas==1.5.3
